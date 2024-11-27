@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ignore virtual environment folder
+env/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore model files
+*.joblib
+
+# Ignore pyvenv.cfg
+pyvenv.cfg
