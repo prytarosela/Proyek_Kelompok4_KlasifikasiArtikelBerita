@@ -31,7 +31,7 @@ Dataset AG News terdiri dari empat kategori:
 1. **Clone Proyek**  
    Clone repositori ke direktori lokal Anda:
    ```bash
-   git clone https://github.com/username/Proyek-Akhir-Klasifikasi-Berita.git
+   git clone https://github.com/prytarosela/Proyek_Kelompok4_KlasifikasiArtikelBerita.git
    cd Proyek-Akhir-Klasifikasi-Berita
    ```
 
